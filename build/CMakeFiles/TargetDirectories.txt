@@ -1,0 +1,3 @@
+/home/ezzat/courses/git/git_course/build/CMakeFiles/main.dir
+/home/ezzat/courses/git/git_course/build/CMakeFiles/edit_cache.dir
+/home/ezzat/courses/git/git_course/build/CMakeFiles/rebuild_cache.dir
